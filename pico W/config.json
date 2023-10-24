@@ -1,0 +1,6 @@
+{
+"ssid":"NOS-DCEF",
+"ssid_password":"password",
+"server_url":"url",
+"querry_interval_sec":15
+}
